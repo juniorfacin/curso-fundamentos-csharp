@@ -33,8 +33,6 @@ Isso irá compilar e executar a aplicação de console usada nas aulas.
 
 ## Certificado
 
-Certificado de conclusão do curso de Fundamentos de C#:
-
 ![Certificado - Fundamentos do C#](assets/curso-fundamentos-csharp.png)
 
 ---
